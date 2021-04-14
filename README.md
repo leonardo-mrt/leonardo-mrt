@@ -1,6 +1,6 @@
 <h1>E aí! 👋😎 </h1>
 
-<p>Eu me chamo <b>Leonardo Martins</b>, sou graduando em Engenharia da Computação, Técnico em Mecatrônica e fascinado pelo desenvolvimento web, principalmente por UI/UX Design.</p>
+<p>Eu me chamo <b>Leonardo Martins</b>, sou graduando em <b>Engenharia da Computação</b>, <b>Técnico em Mecatrônica</b> e fascinado pelo <b>desenvolvimento web</b>, principalmente por <b>UI/UX Design</b>.</p>
 
 <h2>⚙️Conhecimentos</h2>
 <p align="left">
