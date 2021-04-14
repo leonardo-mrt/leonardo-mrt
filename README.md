@@ -1,4 +1,4 @@
-<img src="anexo/art.png" align="right" min-width="300px" max-width="550px" width="500px">
+<img src="anexo/art.png" align="right" min-width="300px" max-width="550px" width="530px">
 <h1>E aí! 👋😎 </h1>
 
 <p>Eu me chamo <b>Leonardo Martins</b>, sou graduando em <b>Engenharia da Computação</b>, <b>Técnico em Mecatrônica</b> e fascinado pelo <b>desenvolvimento web</b>, principalmente por <b>UI/UX Design</b>.</p>
