@@ -1,3 +1,4 @@
+<img src="assets/art.png" align="right">
 <h1>E aí! 👋😎 </h1>
 
 <p>Eu me chamo <b>Leonardo Martins</b>, sou graduando em <b>Engenharia da Computação</b>, <b>Técnico em Mecatrônica</b> e fascinado pelo <b>desenvolvimento web</b>, principalmente por <b>UI/UX Design</b>.</p>
