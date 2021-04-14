@@ -22,5 +22,6 @@
 <ul>
   <li><b>Engenharia da Computação</b> - Unisal</li>
   <li><b>Técnico em Mecatrônica</b> - SENAI</li>
-  <li><b>Web Design Completo<b> -Origamid</li>
+  <li><b>Web Design Completo</b> - Origamid</li>
+  <li><b>WordPress como CMS (🚧...em progresso...🚧)</b> - Origamid</li>
 </ul>
