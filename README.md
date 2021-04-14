@@ -2,7 +2,7 @@
 
 <p>Eu me chamo <b>Leonardo Martins</b>, sou graduando em Engenharia da Computação, Técnico em Mecatrônica e fascinado pelo desenvolvimento web, principalmente por UI/UX Design.</p>
 
-<h2>Conhecimentos</h2>
+<h2>⚙️Conhecimentos</h2>
 <p align="left">
   <code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt=""></code>
   <code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whit" alt=""></code>
@@ -16,4 +16,11 @@
 <p>📚 Estudando atualmente: <b>Wordpress como interface CMS</b> (para facilitar aos leigos a personalização de um site), <b>HTML5, CSS3 e JavaScript. </b></p>
 <p>🎯 Focado em: <b>UI/UX Design</b></p>
 <p>✍ Pretendo aprender: <b>React, Next.js,Vue.js, Node.js,</b></p>
-<p>🏴 Metas de aprendizado futuras: <b>Python, Ruby, php</b>󠁣󠁯
+<p>🔥 Metas de aprendizado futuras: <b>Python, Ruby, php</b>󠁣󠁯</p>
+
+<h2>🎓Cursos</h2>
+<ul>
+  <li><b>Engenharia da Computação</b> - Unisal</li>
+  <li><b>Técnico em Mecatrônica</b> - SENAI</li>
+  <li><b>Web Design Completo<b> -Origamid</li>
+</ul>
