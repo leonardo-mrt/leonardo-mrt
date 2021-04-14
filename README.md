@@ -26,3 +26,10 @@
   <li><b>Web Design Completo</b> - Origamid</li>
   <li><b>WordPress como CMS (🚧...em progresso...🚧)</b> - Origamid</li>
 </ul>
+
+<h2>📩Contato</h2>
+<p align="left">
+  <code><a href="mailto:sleonardo.mrt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt""></a></code>
+  <code><a href="https://www.linkedin.com/in/nardoleo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt""></a></code>
+  <code><a href="https://github.com/leonardo-mrt/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt""></a></code>
+</p>
