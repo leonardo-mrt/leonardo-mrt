@@ -12,7 +12,7 @@
 </p>
 
 
-<p>🧰 Ferramentas que utilizo: AdobeXD, Photoshop, Visual Studio Code </p>
+<p>🧰 Ferramentas que utilizo: <b>AdobeXD, Photoshop, Visual Studio Code</b> </p>
 <p>📚 Estudando atualmente: <b>Wordpress como interface CMS</b> (para facilitar aos leigos a personalização de um site), <b>HTML5, CSS3 e JavaScript. </b></p>
 <p>🎯 Focado em: <b>UI/UX Design</b></p>
 <p>✍ Pretendo aprender: <b>React, Next.js,Vue.js, Node.js,</b></p>
